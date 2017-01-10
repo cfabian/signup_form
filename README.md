@@ -1,7 +1,8 @@
 #Login Form
 
 A signup form that uses PHP and MySQL.
-Usernames and passwords are queried from a MySQL database.
+Usernames and passwords are queried from a MySQL database. <br/>
+This form works well with the <a href="https://github.com/cfabian/login_form">Login Form</a>.
 
 #Usage 
 
